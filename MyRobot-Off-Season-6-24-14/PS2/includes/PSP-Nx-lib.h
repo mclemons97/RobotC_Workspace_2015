@@ -33,22 +33,7 @@
  *											system, preson, and property!
  */
 
-/*--------------------------------------
-  Controller button layout:
-----------------------------------------
 
-      L1                R1
-      L2                R2
-
-      d                 triang
-   a     c         square     circle
-      b                  cross
-
-     l_j_b              r_j_b
-     l_j_x              r_j_x
-     l_j_y              r_j_y
-
--------------------------------------- */
 /*
   bits as follows:
    b1:   a b c d x r_j_b l_j_b x
